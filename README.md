@@ -1,2 +1,2 @@
 # MachineLearning
-ML_Projects
+This project is aiming to use algorithms like Support Vector Machine, the K-Nearest Neighbors (KNN) and Logistic regression, that are highly utilized machine learning algorithms for classification of data in a binary manner. We use them for training a model which will help in distinguishing between credit card transactions that are either fraudulent or legal. Moreover, we also will be evaluating how accurate all these three models are.
